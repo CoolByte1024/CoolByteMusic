@@ -1,32 +1,18 @@
 MKOnlineMusicPlayer
 ========
+本项目基于MKOnlineMusicPlayer 修改而成，感谢MKOnlineMusicPlayer 作者提供的源代码。
+
 MKOnlineMusicPlayer 是一款开源的基于 `Meting` 的在线音乐播放器。具有音乐搜索、播放、下载、歌词同步显示、个人网易云音乐播放列表同步等功能。
 
 前端界面参照 QQ 音乐网页版进行布局，同时采用了流行的响应式设计，无论是在PC端还是在手机端，均能给您带来原生 app 般的使用体验。
-
-> 本项目仅为学习前端的练手之作，请勿用作商业用途，请勿利用本项目下载盗版歌曲资源，否则后果自负！
-
-### 界面欣赏
------
-![主界面(电脑端)](https://user-images.githubusercontent.com/16880885/30487091-f7b45980-9a64-11e7-9588-8b6b87ac6763.jpg)
-
-![播放列表界面(电脑端)](https://user-images.githubusercontent.com/16880885/30487141-1f8ad416-9a65-11e7-960c-a102c47a3d0e.jpg)
-
-![歌曲搜索与播放](https://user-images.githubusercontent.com/16880885/30487344-c93a0306-9a65-11e7-92f3-552072b1dbce.jpg)
 
 ### 相关链接
 -----
 **在线演示** [http://lab.mkblog.cn/music/](http://lab.mkblog.cn/music/)
 
-**详细介绍** [http://mkblog.cn/1060/](http://mkblog.cn/1060/)
+**MKOnlineMusicPlayer 作者GitHub** [https://github.com/mengkunsoft/MKOnlineMusicPlayer](https://github.com/mengkunsoft/MKOnlineMusicPlayer)
 
-**GitHub** [https://github.com/mengkunsoft/MKOnlineMusicPlayer](https://github.com/mengkunsoft/MKOnlineMusicPlayer)
 
-### 常见问题
------
-[请前往 wiki 查阅](https://github.com/mengkunsoft/MKOnlineMusicPlayer/wiki)
-
-**遇到问题请详细阅读以上 wiki！**
 
 ### 更新日志
 -----
