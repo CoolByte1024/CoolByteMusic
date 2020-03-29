@@ -1,4 +1,4 @@
-MKOnlineMusicPlayer
+CoolByte Music
 ========
 本项目基于MKOnlineMusicPlayer 修改而成，感谢MKOnlineMusicPlayer 作者提供的源代码。
 
